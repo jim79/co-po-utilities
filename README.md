@@ -4,11 +4,11 @@
 - [Web browser based template](https://jim79.github.io/co-po-mapping/)
 - [Excel based template](https://drive.google.com/file/d/1zc066mhAQugRO271DWNdj_cE6K89Hr1a/view?usp=sharing)
 **January 16, 2025 update** \
-Update solves :
-- Data validation errors in L/T/P fields 
-- Data validation errors Cognitive Level fields 
-- Page formatting errors when adding new rows in CO Justification 
-
+    ```Update solves :
+    - Data validation errors in L/T/P fields 
+    - Data validation errors Cognitive Level fields 
+    - Page formatting errors when adding new rows in CO Justification 
+    ```
 
 ### Helper files
 - [CO-PO mapping web browser based template usage (Video)](https://youtu.be/xe8fNGI2fz0)
