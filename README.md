@@ -2,7 +2,7 @@
 
 ### Course Outcome - Program Outcome mapping templates (_CO-PO Mapping justification based templates for 2019 scheme_)
 - [Web browser based template](https://jim79.github.io/co-po-mapping/)
-- [Excel based template](https://drive.google.com/file/d/1zyaoppdsXEA9kQNko6b_aXVtvaQszDwj/view?usp=sharing)
+- [Excel based template](https://drive.google.com/file/d/1zc066mhAQugRO271DWNdj_cE6K89Hr1a/view?usp=sharing)
 
 
 ### Helper files
