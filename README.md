@@ -1,6 +1,7 @@
 ## CO-PO-PSO Mapping Utilities
 
-### Course Outcome - Program Outcome mapping templates \(_CO-PO Mapping justification based templates for 2019 scheme_)
+### Course Outcome - Program Outcome mapping templates 
+(_CO-PO Mapping justification based templates for 2019 scheme_)
 - [Web browser based template](https://jim79.github.io/co-po-mapping/)
 - [Excel based template](https://drive.google.com/file/d/1n1EwQmEfv4_yJbQ2A8_hDjzBsNBH53n0/view?usp=sharing)
 **Updated January 16, 2025** \
