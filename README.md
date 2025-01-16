@@ -2,7 +2,7 @@
 
 ### Course Outcome - Program Outcome mapping templates (_CO-PO Mapping justification based templates for 2019 scheme_)
 - [Web browser based template](https://jim79.github.io/co-po-mapping/)
-- [Excel based template](https://drive.google.com/file/d/1zc066mhAQugRO271DWNdj_cE6K89Hr1a/view?usp=sharing)
+- [Excel based template](https://drive.google.com/file/d/1n1EwQmEfv4_yJbQ2A8_hDjzBsNBH53n0/view?usp=sharing)
 **Updated January 16, 2025** \
     Update solves :
     - Data validation errors in L/T/P fields 
