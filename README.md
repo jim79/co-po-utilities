@@ -6,7 +6,7 @@
 **Updated January 16, 2025** \
     Update solves :
     - Data validation errors in L/T/P fields 
-    - Data validation errors Cognitive Level fields 
+    - Data validation errors in Cognitive Level fields 
     - Page formatting errors when adding new rows in CO Justification 
     
 
